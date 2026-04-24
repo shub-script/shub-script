@@ -2,11 +2,35 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 53
+<b>Total Followers:</b> 57
 </p>
 
 <table align="center">
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/systemarchitect31-sketch">
+<img src="https://avatars.githubusercontent.com/u/273307339?u=810d951a19663cbdea227b2825e271b5c30cb49c&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/jovemOG-Dev">
+<img src="https://avatars.githubusercontent.com/u/180483959?u=d258a74b242a2fd307b6204e6c2bca2dc64b3712&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/hatixntsoa">
+<img src="https://avatars.githubusercontent.com/u/76181981?u=f8b30ea3da4a67cad79a0b63e92d666ce0a9289e&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/kelseykm">
+<img src="https://avatars.githubusercontent.com/u/76887666?u=4df52c9db3810ce5e1fa372c37f277f1a996851e&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/arturremizov">
@@ -19,6 +43,47 @@
 <img src="https://avatars.githubusercontent.com/u/109916456?u=6870fa5f84b49cb8df9694459262f7a568feb144&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+</tr>
+<tr>
+
+<td align="center">
+<a href="https://github.com/systemarchitect31-sketch" style="text-decoration:none;">
+systemarchitec...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/jovemOG-Dev" style="text-decoration:none;">
+jovemOG-Dev
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/hatixntsoa" style="text-decoration:none;">
+hatixntsoa
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/kelseykm" style="text-decoration:none;">
+kelseykm
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/arturremizov" style="text-decoration:none;">
+arturremizov
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Cyberoctane29" style="text-decoration:none;">
+Cyberoctane29
+</a>
+</td>
+</tr>
+<tr><td colspan="6"><br></td></tr>
+<tr>
 
 <td align="center" width="120">
 <a href="https://github.com/sahils0">
@@ -43,20 +108,20 @@
 <img src="https://avatars.githubusercontent.com/u/77231906?u=6a25567d16f8745a43a58b1262c285c2a3641288&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/toastkidjp">
+<img src="https://avatars.githubusercontent.com/u/15980475?u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/TheLastKhan">
+<img src="https://avatars.githubusercontent.com/u/114807524?u=f0be0011241e881c627a78056137c46c9a9cd191&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/arturremizov" style="text-decoration:none;">
-arturremizov
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Cyberoctane29" style="text-decoration:none;">
-Cyberoctane29
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/sahils0" style="text-decoration:none;">
@@ -81,21 +146,21 @@ Djalves424
 el-hussain
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/toastkidjp" style="text-decoration:none;">
+toastkidjp
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/TheLastKhan" style="text-decoration:none;">
+TheLastKhan
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/toastkidjp">
-<img src="https://avatars.githubusercontent.com/u/15980475?u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/TheLastKhan">
-<img src="https://avatars.githubusercontent.com/u/114807524?u=f0be0011241e881c627a78056137c46c9a9cd191&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/fbiego">
@@ -120,20 +185,20 @@ el-hussain
 <img src="https://avatars.githubusercontent.com/u/24465401?u=c244d3f3a54a429fc1436d419b852a7aeaf9737b&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/iktiarnazib">
+<img src="https://avatars.githubusercontent.com/u/108393154?u=cf6645d3bc434d7b81c0786f039da0a7b5e21ed4&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/procerezo">
+<img src="https://avatars.githubusercontent.com/u/93773842?u=db8589e6a0920d60ae64a4cf89f7e2fddfd7ac33&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/toastkidjp" style="text-decoration:none;">
-toastkidjp
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/TheLastKhan" style="text-decoration:none;">
-TheLastKhan
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/fbiego" style="text-decoration:none;">
@@ -158,21 +223,21 @@ mateolafalce
 azlkiniue
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/iktiarnazib" style="text-decoration:none;">
+iktiarnazib
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/procerezo" style="text-decoration:none;">
+procerezo
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/iktiarnazib">
-<img src="https://avatars.githubusercontent.com/u/108393154?u=cf6645d3bc434d7b81c0786f039da0a7b5e21ed4&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/procerezo">
-<img src="https://avatars.githubusercontent.com/u/93773842?u=db8589e6a0920d60ae64a4cf89f7e2fddfd7ac33&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/IseduardoRezende">
@@ -197,20 +262,20 @@ azlkiniue
 <img src="https://avatars.githubusercontent.com/u/81972855?u=2274fdbf220863f6b485a70c67b3032d6464abac&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/pakjason61-spec">
+<img src="https://avatars.githubusercontent.com/u/277828400?u=d29581b4e11c10e225b7d89b1c6be89f105dbc35&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/mezentsevs">
+<img src="https://avatars.githubusercontent.com/u/31851704?u=8f148e810b537ff1770e1a8146b3f7d59e03582d&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/iktiarnazib" style="text-decoration:none;">
-iktiarnazib
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/procerezo" style="text-decoration:none;">
-procerezo
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/IseduardoRezende" style="text-decoration:none;">
@@ -235,21 +300,21 @@ izzalDev
 elecbug
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/pakjason61-spec" style="text-decoration:none;">
+pakjason61-spe...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/mezentsevs" style="text-decoration:none;">
+mezentsevs
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/pakjason61-spec">
-<img src="https://avatars.githubusercontent.com/u/277828400?u=d29581b4e11c10e225b7d89b1c6be89f105dbc35&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/mezentsevs">
-<img src="https://avatars.githubusercontent.com/u/31851704?u=8f148e810b537ff1770e1a8146b3f7d59e03582d&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/AlekseyBykov">
@@ -274,20 +339,20 @@ elecbug
 <img src="https://avatars.githubusercontent.com/u/10422858?u=731c17acfffee4a6930ce5245a6430d1b2046e46&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/CY83R-3X71NC710N">
+<img src="https://avatars.githubusercontent.com/u/103222783?u=778d74863a3eaab0f422a9b059f6c3d197cf6fc3&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/feehnscmnt">
+<img src="https://avatars.githubusercontent.com/u/52512216?u=16874b2f77ef2ad5761393b879fed107bd8ea69e&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/pakjason61-spec" style="text-decoration:none;">
-pakjason61-spe...
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/mezentsevs" style="text-decoration:none;">
-mezentsevs
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/AlekseyBykov" style="text-decoration:none;">
@@ -312,21 +377,21 @@ jfullstackdev
 aoyilmaz
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/CY83R-3X71NC710N" style="text-decoration:none;">
+CY83R-3X71NC71...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/feehnscmnt" style="text-decoration:none;">
+feehnscmnt
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/CY83R-3X71NC710N">
-<img src="https://avatars.githubusercontent.com/u/103222783?u=778d74863a3eaab0f422a9b059f6c3d197cf6fc3&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/feehnscmnt">
-<img src="https://avatars.githubusercontent.com/u/52512216?u=16874b2f77ef2ad5761393b879fed107bd8ea69e&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/mhhridoy7907">
@@ -351,20 +416,20 @@ aoyilmaz
 <img src="https://avatars.githubusercontent.com/u/258407493?u=985f5693a46ce3ded162abf2678f9fb90becbb44&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/abressiddique">
+<img src="https://avatars.githubusercontent.com/u/173607011?u=c213c3fea8b8e72ce3f0d71f68b28bf11c4cc873&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/Isac999">
+<img src="https://avatars.githubusercontent.com/u/88738892?u=34c4c002548ea1b8baa1ada512c9f5a00e014507&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/CY83R-3X71NC710N" style="text-decoration:none;">
-CY83R-3X71NC71...
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/feehnscmnt" style="text-decoration:none;">
-feehnscmnt
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/mhhridoy7907" style="text-decoration:none;">
@@ -389,21 +454,21 @@ meat29
 zahracheginy
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/abressiddique" style="text-decoration:none;">
+abressiddique
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Isac999" style="text-decoration:none;">
+Isac999
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/abressiddique">
-<img src="https://avatars.githubusercontent.com/u/173607011?u=c213c3fea8b8e72ce3f0d71f68b28bf11c4cc873&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/Isac999">
-<img src="https://avatars.githubusercontent.com/u/88738892?u=34c4c002548ea1b8baa1ada512c9f5a00e014507&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/0ai-Cyberviser">
@@ -428,20 +493,20 @@ zahracheginy
 <img src="https://avatars.githubusercontent.com/u/123495820?u=1b6169677af4e620210cebc3ebd33e2210f41384&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/Ashkan-P88">
+<img src="https://avatars.githubusercontent.com/u/235171767?u=dfb7d1ab2c3e7a3aa8f970093f0f321b89c5073b&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/pulse712">
+<img src="https://avatars.githubusercontent.com/u/271212019?u=8874b3bdb744dd33dc91014fa3f09df10dcddd04&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/abressiddique" style="text-decoration:none;">
-abressiddique
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Isac999" style="text-decoration:none;">
-Isac999
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/0ai-Cyberviser" style="text-decoration:none;">
@@ -466,21 +531,21 @@ nayeem-miah
 Thesirix
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/Ashkan-P88" style="text-decoration:none;">
+Ashkan-P88
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/pulse712" style="text-decoration:none;">
+pulse712
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/Ashkan-P88">
-<img src="https://avatars.githubusercontent.com/u/235171767?u=dfb7d1ab2c3e7a3aa8f970093f0f321b89c5073b&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/pulse712">
-<img src="https://avatars.githubusercontent.com/u/271212019?u=8874b3bdb744dd33dc91014fa3f09df10dcddd04&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/shikhasingh07">
@@ -505,20 +570,20 @@ Thesirix
 <img src="https://avatars.githubusercontent.com/u/198766034?u=9b0953ce996cd66df972679b8f2632407a1cafc6&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/Ayokanmi-Adejola">
+<img src="https://avatars.githubusercontent.com/u/191106326?u=c741ad775627aa81e66ccad010f5b48dc18286af&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/aibers">
+<img src="https://avatars.githubusercontent.com/u/208883129?u=1cc3cd5942bc4690413d58238559d0c6e3780904&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/Ashkan-P88" style="text-decoration:none;">
-Ashkan-P88
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/pulse712" style="text-decoration:none;">
-pulse712
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/shikhasingh07" style="text-decoration:none;">
@@ -543,21 +608,21 @@ felipe-veas
 Resolutefemi
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/Ayokanmi-Adejola" style="text-decoration:none;">
+Ayokanmi-Adejo...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/aibers" style="text-decoration:none;">
+aibers
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/Ayokanmi-Adejola">
-<img src="https://avatars.githubusercontent.com/u/191106326?u=c741ad775627aa81e66ccad010f5b48dc18286af&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/aibers">
-<img src="https://avatars.githubusercontent.com/u/208883129?u=1cc3cd5942bc4690413d58238559d0c6e3780904&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/KayanShah">
@@ -582,20 +647,20 @@ Resolutefemi
 <img src="https://avatars.githubusercontent.com/u/176918465?u=2bb5e485e760565ac6c569c91b427e7981a07183&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
+
+<td align="center" width="120">
+<a href="https://github.com/mwakidenis">
+<img src="https://avatars.githubusercontent.com/u/182089390?u=40506ab64a6219fb7c74263e79e3dc76b11395ce&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/AbdulRehman393">
+<img src="https://avatars.githubusercontent.com/u/140309861?u=d5a6208410a08bdbbe61b2c1accf03b4517a1d0e&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/Ayokanmi-Adejola" style="text-decoration:none;">
-Ayokanmi-Adejo...
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/aibers" style="text-decoration:none;">
-aibers
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/KayanShah" style="text-decoration:none;">
@@ -620,21 +685,21 @@ arch-yunus
 Amir-Mohammad-...
 </a>
 </td>
+
+<td align="center">
+<a href="https://github.com/mwakidenis" style="text-decoration:none;">
+mwakidenis
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/AbdulRehman393" style="text-decoration:none;">
+AbdulRehman393
+</a>
+</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
-
-<td align="center" width="120">
-<a href="https://github.com/mwakidenis">
-<img src="https://avatars.githubusercontent.com/u/182089390?u=40506ab64a6219fb7c74263e79e3dc76b11395ce&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/AbdulRehman393">
-<img src="https://avatars.githubusercontent.com/u/140309861?u=d5a6208410a08bdbbe61b2c1accf03b4517a1d0e&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 
 <td align="center" width="120">
 <a href="https://github.com/seehiong">
@@ -655,18 +720,6 @@ Amir-Mohammad-...
 </td>
 </tr>
 <tr>
-
-<td align="center">
-<a href="https://github.com/mwakidenis" style="text-decoration:none;">
-mwakidenis
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/AbdulRehman393" style="text-decoration:none;">
-AbdulRehman393
-</a>
-</td>
 
 <td align="center">
 <a href="https://github.com/seehiong" style="text-decoration:none;">
