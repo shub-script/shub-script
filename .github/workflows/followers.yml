@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: followers-auto-update
+  cancel-in-progress: false
+
 jobs:
   update-followers:
     runs-on: ubuntu-latest
@@ -27,7 +31,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Followers Bot
+      - name: Run Followers Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
@@ -41,9 +45,12 @@ jobs:
           git add README.md
 
           if git diff --cached --quiet; then
-            echo "No README changes."
+            echo "No changes found."
             exit 0
           fi
 
           git commit -m "docs: auto update followers"
           git push
+
+      - name: Done
+        run: echo "Workflow completed successfully."
