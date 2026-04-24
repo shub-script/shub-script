@@ -2,11 +2,17 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 89
+<b>Total Followers:</b> 90
 </p>
 
 <table align="center">
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/ESousa97">
+<img src="https://avatars.githubusercontent.com/u/114963739?u=8b94162d8df6be7ba0379afed5e58ac6b55a5d21&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/MightyCharm">
@@ -37,14 +43,14 @@
 <img src="https://avatars.githubusercontent.com/u/236710444?u=556acdebac98ff91bcf9ca9f8a4a447e9db22042&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/koke1997">
-<img src="https://avatars.githubusercontent.com/u/67540157?u=c7af9fefc3d57c1db9e3c1b939552dfbfe24c7da&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/ESousa97" style="text-decoration:none;">
+ESousa97
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/MightyCharm" style="text-decoration:none;">
@@ -75,15 +81,15 @@ AlgorithmAlche...
 joe16000
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/koke1997" style="text-decoration:none;">
-koke1997
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/koke1997">
+<img src="https://avatars.githubusercontent.com/u/67540157?u=c7af9fefc3d57c1db9e3c1b939552dfbfe24c7da&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/Mouadh-Radhoini">
@@ -114,14 +120,14 @@ koke1997
 <img src="https://avatars.githubusercontent.com/u/182089390?u=40506ab64a6219fb7c74263e79e3dc76b11395ce&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/thehealingcenterllc4-lgtm">
-<img src="https://avatars.githubusercontent.com/u/269719503?v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/koke1997" style="text-decoration:none;">
+koke1997
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/Mouadh-Radhoini" style="text-decoration:none;">
@@ -152,15 +158,15 @@ aysahasanzade
 mwakidenis
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/thehealingcenterllc4-lgtm" style="text-decoration:none;">
-thehealingcent...
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/thehealingcenterllc4-lgtm">
+<img src="https://avatars.githubusercontent.com/u/269719503?v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/ShRP69">
@@ -191,14 +197,14 @@ thehealingcent...
 <img src="https://avatars.githubusercontent.com/u/75484605?u=96fbb6c88c1a8f26c5301933c6cc6790adc2aaae&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/HackinSacks">
-<img src="https://avatars.githubusercontent.com/u/208308010?u=dceeaede0373ab7fe90587b864bada27453215cd&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/thehealingcenterllc4-lgtm" style="text-decoration:none;">
+thehealingcent...
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/ShRP69" style="text-decoration:none;">
@@ -229,15 +235,15 @@ Ayoub-glitsh
 Rick-torrellas
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/HackinSacks" style="text-decoration:none;">
-HackinSacks
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/HackinSacks">
+<img src="https://avatars.githubusercontent.com/u/208308010?u=dceeaede0373ab7fe90587b864bada27453215cd&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/PantelicGR">
@@ -268,14 +274,14 @@ HackinSacks
 <img src="https://avatars.githubusercontent.com/u/183940239?u=ce9b3cb0bc859c6643078142ce683ae877162ff4&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/javyxu">
-<img src="https://avatars.githubusercontent.com/u/22185273?u=166d0db3b4be642eec6af7a53fc5b3d6bdfa5945&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/HackinSacks" style="text-decoration:none;">
+HackinSacks
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/PantelicGR" style="text-decoration:none;">
@@ -306,15 +312,15 @@ abinashnavasee...
 Evans2004k
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/javyxu" style="text-decoration:none;">
-javyxu
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/javyxu">
+<img src="https://avatars.githubusercontent.com/u/22185273?u=166d0db3b4be642eec6af7a53fc5b3d6bdfa5945&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/dayofthedeparted">
@@ -345,14 +351,14 @@ javyxu
 <img src="https://avatars.githubusercontent.com/u/277070735?u=c6ff579b63216098ba8ff0a4881d06c12b11ea42&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/webxos">
-<img src="https://avatars.githubusercontent.com/u/199669333?u=2f181660f9b0b81e2abe39d545ba5e853ed563e0&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/javyxu" style="text-decoration:none;">
+javyxu
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/dayofthedeparted" style="text-decoration:none;">
@@ -383,15 +389,15 @@ a-partovii
 EimanTahir027
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/webxos" style="text-decoration:none;">
-webxos
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/webxos">
+<img src="https://avatars.githubusercontent.com/u/199669333?u=2f181660f9b0b81e2abe39d545ba5e853ed563e0&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/0Darkn">
@@ -422,14 +428,14 @@ webxos
 <img src="https://avatars.githubusercontent.com/u/273307339?u=810d951a19663cbdea227b2825e271b5c30cb49c&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/jovemOG-Dev">
-<img src="https://avatars.githubusercontent.com/u/180483959?u=d258a74b242a2fd307b6204e6c2bca2dc64b3712&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/webxos" style="text-decoration:none;">
+webxos
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/0Darkn" style="text-decoration:none;">
@@ -460,15 +466,15 @@ yagosnasciment...
 systemarchitec...
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/jovemOG-Dev" style="text-decoration:none;">
-jovemOG-Dev
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/jovemOG-Dev">
+<img src="https://avatars.githubusercontent.com/u/180483959?u=d258a74b242a2fd307b6204e6c2bca2dc64b3712&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/hatixntsoa">
@@ -499,14 +505,14 @@ jovemOG-Dev
 <img src="https://avatars.githubusercontent.com/u/96993695?u=f277ac54afd6846ad22b29608ce3863584b96ef5&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/techleadevelopers">
-<img src="https://avatars.githubusercontent.com/u/107329417?u=3eb4c161aa412a37ac70d4ca11060362da50ac7f&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/jovemOG-Dev" style="text-decoration:none;">
+jovemOG-Dev
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/hatixntsoa" style="text-decoration:none;">
@@ -537,15 +543,15 @@ Cyberoctane29
 sahils0
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/techleadevelopers" style="text-decoration:none;">
-techleadevelop...
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/techleadevelopers">
+<img src="https://avatars.githubusercontent.com/u/107329417?u=3eb4c161aa412a37ac70d4ca11060362da50ac7f&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/Djalves424">
@@ -576,14 +582,14 @@ techleadevelop...
 <img src="https://avatars.githubusercontent.com/u/45796740?u=12f5bcd3ecc9cdee7c39dfb2194c5b62675e8022&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/gloomystore">
-<img src="https://avatars.githubusercontent.com/u/80506909?u=98d2dea2253ad7c22aeb688c3f4d80a5da32cb1b&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/techleadevelopers" style="text-decoration:none;">
+techleadevelop...
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/Djalves424" style="text-decoration:none;">
@@ -614,15 +620,15 @@ TheLastKhan
 fbiego
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/gloomystore" style="text-decoration:none;">
-gloomystore
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/gloomystore">
+<img src="https://avatars.githubusercontent.com/u/80506909?u=98d2dea2253ad7c22aeb688c3f4d80a5da32cb1b&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/mateolafalce">
@@ -653,14 +659,14 @@ gloomystore
 <img src="https://avatars.githubusercontent.com/u/109261717?u=06268ca171e7a1b84a64b416fb2c6c3145852ec3&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/ocvcoin">
-<img src="https://avatars.githubusercontent.com/u/90601304?u=3cbdae49f4e16b9e17dff085b9f6da35f1cd2aa0&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/gloomystore" style="text-decoration:none;">
+gloomystore
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/mateolafalce" style="text-decoration:none;">
@@ -691,15 +697,15 @@ procerezo
 IseduardoRezen...
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/ocvcoin" style="text-decoration:none;">
-ocvcoin
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/ocvcoin">
+<img src="https://avatars.githubusercontent.com/u/90601304?u=3cbdae49f4e16b9e17dff085b9f6da35f1cd2aa0&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/izzalDev">
@@ -730,14 +736,14 @@ ocvcoin
 <img src="https://avatars.githubusercontent.com/u/19653312?u=f2a644ab122d176dad5e9de5119d6fab1cddee76&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/Dmytro1991ua">
-<img src="https://avatars.githubusercontent.com/u/61331410?u=853fe85b737a07e9b17de3a4468d28fd317b7873&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/ocvcoin" style="text-decoration:none;">
+ocvcoin
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/izzalDev" style="text-decoration:none;">
@@ -768,15 +774,15 @@ mezentsevs
 AlekseyBykov
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/Dmytro1991ua" style="text-decoration:none;">
-Dmytro1991ua
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/Dmytro1991ua">
+<img src="https://avatars.githubusercontent.com/u/61331410?u=853fe85b737a07e9b17de3a4468d28fd317b7873&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/jfullstackdev">
@@ -807,14 +813,14 @@ Dmytro1991ua
 <img src="https://avatars.githubusercontent.com/u/230638080?u=6f4957eedb96aaac7774d200a6cebbd38b42b859&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/asilo-sofhia">
-<img src="https://avatars.githubusercontent.com/u/230028638?u=ad7dc872b7737d92982993e504aabac257ee6c33&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/Dmytro1991ua" style="text-decoration:none;">
+Dmytro1991ua
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/jfullstackdev" style="text-decoration:none;">
@@ -845,15 +851,15 @@ feehnscmnt
 mhhridoy7907
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/asilo-sofhia" style="text-decoration:none;">
-asilo-sofhia
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/asilo-sofhia">
+<img src="https://avatars.githubusercontent.com/u/230028638?u=ad7dc872b7737d92982993e504aabac257ee6c33&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/meat29">
@@ -884,14 +890,14 @@ asilo-sofhia
 <img src="https://avatars.githubusercontent.com/u/266508493?u=cedd851cd85c6729a24da0e722ac43731c073d3c&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/Sumersingpatil2694">
-<img src="https://avatars.githubusercontent.com/u/121796367?u=768ff6e94f38a05f0e93a9307bcbe3a6ba3b8dde&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/asilo-sofhia" style="text-decoration:none;">
+asilo-sofhia
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/meat29" style="text-decoration:none;">
@@ -922,15 +928,15 @@ Isac999
 0ai-Cyberviser
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/Sumersingpatil2694" style="text-decoration:none;">
-Sumersingpatil...
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/Sumersingpatil2694">
+<img src="https://avatars.githubusercontent.com/u/121796367?u=768ff6e94f38a05f0e93a9307bcbe3a6ba3b8dde&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/nayeem-miah">
@@ -961,14 +967,14 @@ Sumersingpatil...
 <img src="https://avatars.githubusercontent.com/u/41201838?u=440cad19e9a7f2d807365a9ec41c345750106972&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/SamoTech">
-<img src="https://avatars.githubusercontent.com/u/5285768?u=06ec81c4ded30396ccae8e384a10dab63ec04e85&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/Sumersingpatil2694" style="text-decoration:none;">
+Sumersingpatil...
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/nayeem-miah" style="text-decoration:none;">
@@ -999,15 +1005,15 @@ pulse712
 shikhasingh07
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/SamoTech" style="text-decoration:none;">
-SamoTech
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/SamoTech">
+<img src="https://avatars.githubusercontent.com/u/5285768?u=06ec81c4ded30396ccae8e384a10dab63ec04e85&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/felipe-veas">
@@ -1038,14 +1044,14 @@ SamoTech
 <img src="https://avatars.githubusercontent.com/u/169876770?u=496b6ba6ed3b5c7e1db19339b5fdd880364c6164&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/Nour-yahyaoui">
-<img src="https://avatars.githubusercontent.com/u/177131499?u=8cb67b5751a6f089b0cdec3587666d2484157221&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/SamoTech" style="text-decoration:none;">
+SamoTech
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/felipe-veas" style="text-decoration:none;">
@@ -1076,15 +1082,15 @@ aibers
 KayanShah
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/Nour-yahyaoui" style="text-decoration:none;">
-Nour-yahyaoui
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/Nour-yahyaoui">
+<img src="https://avatars.githubusercontent.com/u/177131499?u=8cb67b5751a6f089b0cdec3587666d2484157221&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/arch-yunus">
@@ -1117,6 +1123,12 @@ Nour-yahyaoui
 </td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/Nour-yahyaoui" style="text-decoration:none;">
+Nour-yahyaoui
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/arch-yunus" style="text-decoration:none;">
