@@ -2,10 +2,87 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 72
+<b>Total Followers:</b> 78
 </p>
 
 <table align="center">
+<tr>
+
+<td align="center" width="120">
+<a href="https://github.com/ShRP69">
+<img src="https://avatars.githubusercontent.com/u/167228919?u=ecb1516a651e7415474abc7d01d2311742464c64&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/guevaraStian">
+<img src="https://avatars.githubusercontent.com/u/22348210?u=14d2468b698f1e261df2a980212dcf8bf2294a83&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/LIgrigoriiciuc">
+<img src="https://avatars.githubusercontent.com/u/249168836?v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/Ayoub-glitsh">
+<img src="https://avatars.githubusercontent.com/u/187273527?u=390447c1f54a3a048df000181ce153897acefc08&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/Rick-torrellas">
+<img src="https://avatars.githubusercontent.com/u/75484605?u=96fbb6c88c1a8f26c5301933c6cc6790adc2aaae&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/HackinSacks">
+<img src="https://avatars.githubusercontent.com/u/208308010?u=dceeaede0373ab7fe90587b864bada27453215cd&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+</tr>
+<tr>
+
+<td align="center">
+<a href="https://github.com/ShRP69" style="text-decoration:none;">
+ShRP69
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/guevaraStian" style="text-decoration:none;">
+guevaraStian
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/LIgrigoriiciuc" style="text-decoration:none;">
+LIgrigoriiciuc
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Ayoub-glitsh" style="text-decoration:none;">
+Ayoub-glitsh
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Rick-torrellas" style="text-decoration:none;">
+Rick-torrellas
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/HackinSacks" style="text-decoration:none;">
+HackinSacks
+</a>
+</td>
+</tr>
+<tr><td colspan="6"><br></td></tr>
 <tr>
 
 <td align="center" width="120">
@@ -28,7 +105,7 @@
 
 <td align="center" width="120">
 <a href="https://github.com/abinashnavaseelan">
-<img src="https://avatars.githubusercontent.com/u/162363441?u=90178fa376f29aa3d910223c502aa14d9bc1da86&v=4" width="72" height="72" style="border-radius:50%;"><br>
+<img src="https://avatars.githubusercontent.com/u/162363441?u=5d2fba5e9658e4e85e6a18cfbca23bdfcc6049ba&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
 
