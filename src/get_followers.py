@@ -1,24 +1,22 @@
 import os
 import requests
-from math import ceil
 
-# ===============================
+# =========================
 # CONFIG
-# ===============================
-USERNAME = "shub-script"      # change if needed
+# =========================
+USERNAME = "shub-script"
 TOKEN = os.getenv("GH_TOKEN")
 README_FILE = "README.md"
 
 API = "https://api.github.com/graphql"
+LIMIT = 100
+PER_ROW = 6
 
-FETCH_LIMIT = 100
-PER_PAGE = 12
 
-
-# ===============================
+# =========================
 # FETCH FOLLOWERS
-# ===============================
-def fetch_followers():
+# =========================
+def fetch_data():
     query = """
     query($login:String!, $count:Int!) {
       user(login:$login) {
@@ -43,7 +41,7 @@ def fetch_followers():
         "query": query,
         "variables": {
             "login": USERNAME,
-            "count": FETCH_LIMIT
+            "count": LIMIT
         }
     }
 
@@ -52,108 +50,94 @@ def fetch_followers():
 
     data = r.json()
 
-    if "errors" in data:
-        raise Exception(str(data["errors"]))
-
     followers = data["data"]["user"]["followers"]["nodes"]
     total = data["data"]["user"]["followers"]["totalCount"]
 
     return followers, total
 
 
-# ===============================
-# SINGLE CARD
-# ===============================
-def user_card(user):
-    return f"""
-<a href="{user['url']}" target="_blank" style="text-decoration:none;">
-<img src="{user['avatarUrl']}" width="72" style="border-radius:50%;"><br>
-<b>{user['login']}</b>
+# =========================
+# GRID TABLE
+# =========================
+def build_table(users):
+    html = '<table align="center">\n'
+
+    for i in range(0, len(users), PER_ROW):
+        row = users[i:i+PER_ROW]
+
+        # image row
+        html += "<tr>\n"
+        for user in row:
+            html += f'''
+<td align="center" width="120">
+<a href="{user['url']}">
+<img src="{user['avatarUrl']}" width="72" height="72" style="border-radius:50%;"><br>
 </a>
-"""
+</td>
+'''
+        html += "</tr>\n"
 
+        # username row
+        html += "<tr>\n"
+        for user in row:
+            html += f'''
+<td align="center">
+<a href="{user['url']}" style="text-decoration:none;">
+{sub(user['login'])}
+</a>
+</td>
+'''
+        html += "</tr>\n"
 
-# ===============================
-# PAGES
-# ===============================
-def follower_pages(users):
-    total_pages = ceil(len(users) / PER_PAGE)
-    html = ""
+        html += '<tr><td colspan="6"><br></td></tr>\n'
 
-    for page in range(total_pages):
-        start = page * PER_PAGE
-        end = start + PER_PAGE
-        chunk = users[start:end]
-
-        html += f"""
-<details {"open" if page == 0 else ""}>
-<summary>📄 Page {page+1}/{total_pages} • Click To View More</summary>
-
-<div align="center">
-"""
-
-        for i, user in enumerate(chunk):
-            html += user_card(user) + "&nbsp;&nbsp;&nbsp;"
-
-            if (i + 1) % 4 == 0:
-                html += "<br><br>"
-
-        html += """
-</div>
-</details>
-
-"""
-
+    html += "</table>"
     return html
 
 
-# ===============================
-# README CONTENT
-# ===============================
+def sub(text):
+    if len(text) > 14:
+        return text[:14] + "..."
+    return text
+
+
+# =========================
+# README
+# =========================
 def build_readme(total, users):
-    pages = follower_pages(users)
+    table = build_table(users)
 
     return f"""
-<h1 align="center">👋 Welcome To My GitHub</h1>
-
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
 <b>Total Followers:</b> {total}
 </p>
 
-{pages}
-
----
-
-<p align="center">
-⚡ Automatically Updated With GitHub Actions
-</p>
+{table}
 """
 
 
-# ===============================
-# SAVE FILE
-# ===============================
-def save_readme(content):
+# =========================
+# SAVE
+# =========================
+def save(content):
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
 
-# ===============================
+# =========================
 # MAIN
-# ===============================
+# =========================
 def main():
     if not TOKEN:
-        raise Exception("GH_TOKEN secret not found")
+        raise Exception("GH_TOKEN missing")
 
-    users, total = fetch_followers()
-
+    users, total = fetch_data()
     content = build_readme(total, users)
+    save(content)
 
-    save_readme(content)
-
-    print("README updated successfully.")
+    print("README updated")
 
 
 if __name__ == "__main__":
