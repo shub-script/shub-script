@@ -1,34 +1,24 @@
-# ==========================================
-# GitHub Followers Auto Update Bot (5 sec)
-# Runs locally on Kali / Linux / Windows
-# ==========================================
-
 import os
-import time
-import subprocess
 import requests
 from math import ceil
 
-# ==========================
+# ===============================
 # CONFIG
-# ==========================
-USERNAME = "shub-script"          # your github username
-TOKEN = "PASTE_YOUR_GITHUB_TOKEN"
-REPO_FOLDER = "/home/kali/shub-script"   # local cloned repo path
-
-README_FILE = os.path.join(REPO_FOLDER, "README.md")
-
-CHECK_EVERY = 5          # seconds
-FETCH_COUNT = 100
-PER_PAGE = 12
+# ===============================
+USERNAME = "shub-script"      # change if needed
+TOKEN = os.getenv("GH_TOKEN")
+README_FILE = "README.md"
 
 API = "https://api.github.com/graphql"
 
+FETCH_LIMIT = 100
+PER_PAGE = 12
 
-# ==========================
+
+# ===============================
 # FETCH FOLLOWERS
-# ==========================
-def get_followers():
+# ===============================
+def fetch_followers():
     query = """
     query($login:String!, $count:Int!) {
       user(login:$login) {
@@ -45,19 +35,25 @@ def get_followers():
     """
 
     headers = {
-        "Authorization": f"Bearer {TOKEN}"
+        "Authorization": f"Bearer {TOKEN}",
+        "Content-Type": "application/json"
     }
 
     payload = {
         "query": query,
         "variables": {
             "login": USERNAME,
-            "count": FETCH_COUNT
+            "count": FETCH_LIMIT
         }
     }
 
-    r = requests.post(API, json=payload, headers=headers, timeout=20)
+    r = requests.post(API, json=payload, headers=headers, timeout=30)
+    r.raise_for_status()
+
     data = r.json()
+
+    if "errors" in data:
+        raise Exception(str(data["errors"]))
 
     followers = data["data"]["user"]["followers"]["nodes"]
     total = data["data"]["user"]["followers"]["totalCount"]
@@ -65,60 +61,60 @@ def get_followers():
     return followers, total
 
 
-# ==========================
-# CARD HTML
-# ==========================
-def card(user):
+# ===============================
+# SINGLE CARD
+# ===============================
+def user_card(user):
     return f"""
-<a href="{user['url']}">
-<img src="{user['avatarUrl']}" width="75" style="border-radius:50%;"><br>
+<a href="{user['url']}" target="_blank" style="text-decoration:none;">
+<img src="{user['avatarUrl']}" width="72" style="border-radius:50%;"><br>
 <b>{user['login']}</b>
 </a>
 """
 
 
-# ==========================
-# PAGINATION UI
-# ==========================
-def build_pages(users):
+# ===============================
+# PAGES
+# ===============================
+def follower_pages(users):
     total_pages = ceil(len(users) / PER_PAGE)
-    output = ""
+    html = ""
 
     for page in range(total_pages):
         start = page * PER_PAGE
         end = start + PER_PAGE
-        page_users = users[start:end]
+        chunk = users[start:end]
 
-        output += f"""
+        html += f"""
 <details {"open" if page == 0 else ""}>
-<summary>📄 Page {page+1}/{total_pages} • Click to View More</summary>
+<summary>📄 Page {page+1}/{total_pages} • Click To View More</summary>
 
 <div align="center">
 """
 
-        for i, user in enumerate(page_users):
-            output += card(user) + "&nbsp;&nbsp;&nbsp;"
+        for i, user in enumerate(chunk):
+            html += user_card(user) + "&nbsp;&nbsp;&nbsp;"
 
             if (i + 1) % 4 == 0:
-                output += "<br><br>"
+                html += "<br><br>"
 
-        output += """
+        html += """
 </div>
 </details>
 
 """
 
-    return output
+    return html
 
 
-# ==========================
-# README GENERATE
-# ==========================
-def generate_readme(users, total):
-    pages = build_pages(users)
+# ===============================
+# README CONTENT
+# ===============================
+def build_readme(total, users):
+    pages = follower_pages(users)
 
     return f"""
-<h1 align="center">👋 Welcome To My Profile</h1>
+<h1 align="center">👋 Welcome To My GitHub</h1>
 
 <h2 align="center">🚀 Latest Followers</h2>
 
@@ -131,64 +127,34 @@ def generate_readme(users, total):
 ---
 
 <p align="center">
-⚡ Auto Updated Every 5 Seconds
+⚡ Automatically Updated With GitHub Actions
 </p>
 """
 
 
-# ==========================
+# ===============================
 # SAVE FILE
-# ==========================
+# ===============================
 def save_readme(content):
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
 
-# ==========================
-# GIT PUSH
-# ==========================
-def git_push():
-    commands = [
-        "git add README.md",
-        'git commit -m "followers auto update"',
-        "git push"
-    ]
+# ===============================
+# MAIN
+# ===============================
+def main():
+    if not TOKEN:
+        raise Exception("GH_TOKEN secret not found")
 
-    for cmd in commands:
-        subprocess.run(
-            cmd,
-            shell=True,
-            cwd=REPO_FOLDER,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL
-        )
+    users, total = fetch_followers()
+
+    content = build_readme(total, users)
+
+    save_readme(content)
+
+    print("README updated successfully.")
 
 
-# ==========================
-# LOOP
-# ==========================
-def run():
-    print("Bot Started...")
-
-    while True:
-        try:
-            users, total = get_followers()
-
-            readme = generate_readme(users, total)
-            save_readme(readme)
-
-            git_push()
-
-            print("Updated Followers")
-
-        except Exception as e:
-            print("Error:", e)
-
-        time.sleep(CHECK_EVERY)
-
-
-# ==========================
-# START
-# ==========================
 if __name__ == "__main__":
-    run()
+    main()
