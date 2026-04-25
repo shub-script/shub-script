@@ -34,8 +34,7 @@ jobs:
       - name: Run Followers Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          python src/get_followers.py
+        run: python src/get_followers.py
 
       - name: Commit README If Changed
         run: |
