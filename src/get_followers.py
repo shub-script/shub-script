@@ -57,33 +57,40 @@ def fetch_data():
 
 
 # =========================
+# SHORT NAME
+# =========================
+def short_name(text):
+    if len(text) > 14:
+        return text[:14] + "..."
+    return text
+
+
+# =========================
 # GRID TABLE
 # =========================
 def build_table(users):
     html = '<table align="center">\n'
 
     for i in range(0, len(users), PER_ROW):
-        row = users[i:i+PER_ROW]
+        row = users[i:i + PER_ROW]
 
-        # image row
         html += "<tr>\n"
         for user in row:
             html += f'''
 <td align="center" width="120">
 <a href="{user['url']}">
-<img src="{user['avatarUrl']}" width="72" height="72" style="border-radius:50%;"><br>
+<img src="{user['avatarUrl']}" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 '''
         html += "</tr>\n"
 
-        # username row
         html += "<tr>\n"
         for user in row:
             html += f'''
 <td align="center">
 <a href="{user['url']}" style="text-decoration:none;">
-{sub(user['login'])}
+{short_name(user['login'])}
 </a>
 </td>
 '''
@@ -95,12 +102,6 @@ def build_table(users):
     return html
 
 
-def sub(text):
-    if len(text) > 14:
-        return text[:14] + "..."
-    return text
-
-
 # =========================
 # README
 # =========================
@@ -108,6 +109,8 @@ def build_readme(total, users):
     table = build_table(users)
 
     return f"""
+<img src="images/header_en.svg"></img>
+
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
