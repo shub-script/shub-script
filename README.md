@@ -2,10 +2,87 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 98
+<b>Total Followers:</b> 104
 </p>
 
 <table align="center">
+<tr>
+
+<td align="center" width="120">
+<a href="https://github.com/ThomRib">
+<img src="https://avatars.githubusercontent.com/u/74390441?u=6dfe8edc1cbe7e7e5426dd8e66f461328d8b05b3&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/Brownwang0426">
+<img src="https://avatars.githubusercontent.com/u/28671630?u=1d867ef8d28821eb56be3e2f83341fa830ebd2a6&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/justrakibhassan">
+<img src="https://avatars.githubusercontent.com/u/80609225?u=e17c42f4c4e190db154a7eddb4a08ff6d488a666&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/MinKyeom">
+<img src="https://avatars.githubusercontent.com/u/90392817?u=201e76e95947f9ee6d79b47e6ae945801be41d61&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/biohack5079">
+<img src="https://avatars.githubusercontent.com/u/17965235?u=04049d4a7a7d5d0afe13c65cbebf8c72341c981d&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/aelmizeb">
+<img src="https://avatars.githubusercontent.com/u/19288561?u=dd3b20882640610f5d5eca4e24f8fdee4a5efdb0&v=4" width="72" height="72" style="border-radius:50%;"><br>
+</a>
+</td>
+</tr>
+<tr>
+
+<td align="center">
+<a href="https://github.com/ThomRib" style="text-decoration:none;">
+ThomRib
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Brownwang0426" style="text-decoration:none;">
+Brownwang0426
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/justrakibhassan" style="text-decoration:none;">
+justrakibhassa...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/MinKyeom" style="text-decoration:none;">
+MinKyeom
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/biohack5079" style="text-decoration:none;">
+biohack5079
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/aelmizeb" style="text-decoration:none;">
+aelmizeb
+</a>
+</td>
+</tr>
+<tr><td colspan="6"><br></td></tr>
 <tr>
 
 <td align="center" width="120">
@@ -1186,18 +1263,6 @@ Ayokanmi-Adejo...
 <img src="https://avatars.githubusercontent.com/u/83650878?u=52a08351e575abd9aa5db3a2db529efd40f87f03&v=4" width="72" height="72" style="border-radius:50%;"><br>
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/AbdulRehman393">
-<img src="https://avatars.githubusercontent.com/u/140309861?u=d5a6208410a08bdbbe61b2c1accf03b4517a1d0e&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/seehiong">
-<img src="https://avatars.githubusercontent.com/u/6965893?u=3fabbddef2ceb55a4325fedfc1afe855dceb27d9&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
 </tr>
 <tr>
 
@@ -1222,47 +1287,6 @@ Nour-yahyaoui
 <td align="center">
 <a href="https://github.com/arch-yunus" style="text-decoration:none;">
 arch-yunus
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/AbdulRehman393" style="text-decoration:none;">
-AbdulRehman393
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/seehiong" style="text-decoration:none;">
-seehiong
-</a>
-</td>
-</tr>
-<tr><td colspan="6"><br></td></tr>
-<tr>
-
-<td align="center" width="120">
-<a href="https://github.com/JohnMwendwa">
-<img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/jelspace">
-<img src="https://avatars.githubusercontent.com/u/27209430?u=d12581ee77e2a14807d6540dbf1cb295f2f4045c&v=4" width="72" height="72" style="border-radius:50%;"><br>
-</a>
-</td>
-</tr>
-<tr>
-
-<td align="center">
-<a href="https://github.com/JohnMwendwa" style="text-decoration:none;">
-JohnMwendwa
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/jelspace" style="text-decoration:none;">
-jelspace
 </a>
 </td>
 </tr>
