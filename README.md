@@ -1,4 +1,4 @@
-
+<img src="images/header_en.svg"></img>
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
