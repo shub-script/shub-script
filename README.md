@@ -11,6 +11,12 @@
 <tr>
 
 <td align="center" width="120">
+<a href="https://github.com/ice-ice-bear">
+<img src="https://avatars.githubusercontent.com/u/130954377?u=0f8a08b7522a96edc6a8b780cc69c75efcf5aa43&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
 <a href="https://github.com/fluff3ypupp3y">
 <img src="https://avatars.githubusercontent.com/u/227275336?u=fd5c51731dc8d6ff678117ce2308871eef730f6e&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
@@ -19,12 +25,6 @@
 <td align="center" width="120">
 <a href="https://github.com/TitoBotelho">
 <img src="https://avatars.githubusercontent.com/u/103445424?u=acf18b89009c8ed4ea371d6225ac2281888e45ce&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/tomiangeletti">
-<img src="https://avatars.githubusercontent.com/u/269443789?u=c659272041a6a3f4e47592f5b71ebdb690c64ebb&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
@@ -49,6 +49,12 @@
 <tr>
 
 <td align="center">
+<a href="https://github.com/ice-ice-bear" style="text-decoration:none;">
+ice-ice-bear
+</a>
+</td>
+
+<td align="center">
 <a href="https://github.com/fluff3ypupp3y" style="text-decoration:none;">
 fluff3ypupp3y
 </a>
@@ -57,12 +63,6 @@ fluff3ypupp3y
 <td align="center">
 <a href="https://github.com/TitoBotelho" style="text-decoration:none;">
 TitoBotelho
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/tomiangeletti" style="text-decoration:none;">
-tomiangeletti
 </a>
 </td>
 
