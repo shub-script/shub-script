@@ -4,10 +4,87 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 170
+<b>Total Followers:</b> 176
 </p>
 
 <table align="center">
+<tr>
+
+<td align="center" width="120">
+<a href="https://github.com/laxmikantshingare">
+<img src="https://avatars.githubusercontent.com/u/74627143?u=44b1e1a51fe4c22328838c959eb52193773db2ee&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/documentationei">
+<img src="https://avatars.githubusercontent.com/u/270232272?v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/tashkar131">
+<img src="https://avatars.githubusercontent.com/u/253841434?v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/qumiuo">
+<img src="https://avatars.githubusercontent.com/u/202469885?u=0a3f190d66114d490bbb14cb5aba40be9aeaeb4e&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/tordies">
+<img src="https://avatars.githubusercontent.com/u/170843481?u=0e898ae7e684415362ef967000730694563b1bdb&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://github.com/chunmingwang">
+<img src="https://avatars.githubusercontent.com/u/35757455?v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+</tr>
+<tr>
+
+<td align="center">
+<a href="https://github.com/laxmikantshingare" style="text-decoration:none;">
+laxmikantshing...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/documentationei" style="text-decoration:none;">
+documentatione...
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/tashkar131" style="text-decoration:none;">
+tashkar131
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/qumiuo" style="text-decoration:none;">
+qumiuo
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/tordies" style="text-decoration:none;">
+tordies
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/chunmingwang" style="text-decoration:none;">
+chunmingwang
+</a>
+</td>
+</tr>
+<tr><td colspan="6"><br></td></tr>
 <tr>
 
 <td align="center" width="120">
@@ -1188,18 +1265,6 @@ joe16000
 <img src="https://avatars.githubusercontent.com/u/87106526?v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/aysahasanzade">
-<img src="https://avatars.githubusercontent.com/u/213763167?u=014db5b9aefea2ee5c5cfb24518e3a136ded3eb7&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/thehealingcenterllc4-lgtm">
-<img src="https://avatars.githubusercontent.com/u/269719503?v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
 </tr>
 <tr>
 
@@ -1224,71 +1289,6 @@ CarAuto34
 <td align="center">
 <a href="https://github.com/NazmusSayad" style="text-decoration:none;">
 NazmusSayad
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/aysahasanzade" style="text-decoration:none;">
-aysahasanzade
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/thehealingcenterllc4-lgtm" style="text-decoration:none;">
-thehealingcent...
-</a>
-</td>
-</tr>
-<tr><td colspan="6"><br></td></tr>
-<tr>
-
-<td align="center" width="120">
-<a href="https://github.com/ShRP69">
-<img src="https://avatars.githubusercontent.com/u/167228919?u=ecb1516a651e7415474abc7d01d2311742464c64&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/guevaraStian">
-<img src="https://avatars.githubusercontent.com/u/22348210?u=14d2468b698f1e261df2a980212dcf8bf2294a83&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/LIgrigoriiciuc">
-<img src="https://avatars.githubusercontent.com/u/249168836?v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
-<a href="https://github.com/Ayoub-glitsh">
-<img src="https://avatars.githubusercontent.com/u/187273527?u=390447c1f54a3a048df000181ce153897acefc08&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-</tr>
-<tr>
-
-<td align="center">
-<a href="https://github.com/ShRP69" style="text-decoration:none;">
-ShRP69
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/guevaraStian" style="text-decoration:none;">
-guevaraStian
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/LIgrigoriiciuc" style="text-decoration:none;">
-LIgrigoriiciuc
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Ayoub-glitsh" style="text-decoration:none;">
-Ayoub-glitsh
 </a>
 </td>
 </tr>
