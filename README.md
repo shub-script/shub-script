@@ -4,7 +4,7 @@
 <h2 align="center">🚀 Latest Followers</h2>
 
 <p align="center">
-<b>Total Followers:</b> 186
+<b>Total Followers:</b> 187
 </p>
 
 <table align="center">
