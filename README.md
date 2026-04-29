@@ -427,7 +427,7 @@ qumiuo
 
 <td align="center" width="120">
 <a href="https://github.com/mdnaim2004">
-<img src="https://avatars.githubusercontent.com/u/214638213?u=3866cf059646341ec6cc3aa91bdfb00901ddff36&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/214638213?v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 </tr>
