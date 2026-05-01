@@ -36,7 +36,7 @@
 
 <td align="center" width="120">
 <a href="https://github.com/melopics">
-<img src="https://avatars.githubusercontent.com/u/241115038?u=9db9d9ec0767c491a75ee6bc0286712fd006ee78&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/241115038?u=e902ba68843a25fb71d45b92549bd3deaf4b1d8f&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
