@@ -249,7 +249,7 @@ VladimirNagibi...
 
 <td align="center" width="120">
 <a href="https://github.com/MaturusLux">
-<img src="https://avatars.githubusercontent.com/u/43556620?u=6a8cbce6949c9cb706c7bf238278266e3a383c9d&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/43556620?u=477cd3669f3e735cd09ac12306e3e92a364a3fef&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
