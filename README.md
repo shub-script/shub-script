@@ -1262,7 +1262,7 @@ ToyLess78
 
 <td align="center" width="120">
 <a href="https://github.com/hamuQonda">
-<img src="https://avatars.githubusercontent.com/u/46275798?u=6d9aa1699ac7f5bda7ae25cb578f27330335fcc1&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/46275798?u=f92ef6beeb0f894442a70d18bf7f1ee2ccd654a4&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 </tr>
