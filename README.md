@@ -569,7 +569,7 @@ qumiuo
 
 <td align="center" width="120">
 <a href="https://github.com/fluff3ypupp3y">
-<img src="https://avatars.githubusercontent.com/u/227275336?u=93ebe66ed3ba7ec0dd83f4bf318326e465285021&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/227275336?u=7b710404bc8caaac2fc904c9828cfeeb855f7e7d&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
