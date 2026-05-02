@@ -11,6 +11,12 @@
 <tr>
 
 <td align="center" width="120">
+<a href="https://github.com/mwakidenis">
+<img src="https://avatars.githubusercontent.com/u/182089390?u=40506ab64a6219fb7c74263e79e3dc76b11395ce&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
 <a href="https://github.com/LIgrigoriiciuc">
 <img src="https://avatars.githubusercontent.com/u/249168836?v=4" width="72" height="72" style="border-radius:50%;">
 </a>
@@ -39,14 +45,14 @@
 <img src="https://avatars.githubusercontent.com/u/241115038?u=e902ba68843a25fb71d45b92549bd3deaf4b1d8f&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/salarizadi">
-<img src="https://avatars.githubusercontent.com/u/67143370?u=f1560431bef729ea71d7901cb5e9c3301e3ebed8&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/mwakidenis" style="text-decoration:none;">
+mwakidenis
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/LIgrigoriiciuc" style="text-decoration:none;">
@@ -77,25 +83,19 @@ mznausica3181-...
 melopics
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/salarizadi" style="text-decoration:none;">
-salarizadi
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
 
 <td align="center" width="120">
-<a href="https://github.com/NarcissisticSwag">
-<img src="https://avatars.githubusercontent.com/u/263339238?u=0addf3b1507f8ad1b286e0e53f628f1ea3da3be1&v=4" width="72" height="72" style="border-radius:50%;">
+<a href="https://github.com/salarizadi">
+<img src="https://avatars.githubusercontent.com/u/67143370?u=f1560431bef729ea71d7901cb5e9c3301e3ebed8&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
 <td align="center" width="120">
-<a href="https://github.com/mwakidenis">
-<img src="https://avatars.githubusercontent.com/u/182089390?u=40506ab64a6219fb7c74263e79e3dc76b11395ce&v=4" width="72" height="72" style="border-radius:50%;">
+<a href="https://github.com/NarcissisticSwag">
+<img src="https://avatars.githubusercontent.com/u/263339238?u=0addf3b1507f8ad1b286e0e53f628f1ea3da3be1&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
@@ -126,14 +126,14 @@ salarizadi
 <tr>
 
 <td align="center">
-<a href="https://github.com/NarcissisticSwag" style="text-decoration:none;">
-NarcissisticSw...
+<a href="https://github.com/salarizadi" style="text-decoration:none;">
+salarizadi
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/mwakidenis" style="text-decoration:none;">
-mwakidenis
+<a href="https://github.com/NarcissisticSwag" style="text-decoration:none;">
+NarcissisticSw...
 </a>
 </td>
 
