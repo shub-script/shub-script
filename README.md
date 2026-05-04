@@ -1096,7 +1096,7 @@ lancedesk
 
 <td align="center" width="120">
 <a href="https://github.com/FromTheRiver2TheSea">
-<img src="https://avatars.githubusercontent.com/u/264420955?u=522b21e5e8033ab6e899e2f9fecf62ee172cf90f&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/264420955?u=ffa02f789d6fff2f93bbd10f8a25d482982d2143&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
