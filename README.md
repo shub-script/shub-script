@@ -30,7 +30,7 @@
 
 <td align="center" width="120">
 <a href="https://github.com/ANTlDOTE">
-<img src="https://avatars.githubusercontent.com/u/247900442?u=081ecd370dc60c16450054438f7c7273dc4f5a29&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/247900442?u=9b1d56764a75403602815ed4a86024787599be04&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
