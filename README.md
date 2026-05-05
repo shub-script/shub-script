@@ -1025,7 +1025,7 @@ ralf-rosenberg...
 
 <td align="center" width="120">
 <a href="https://github.com/rzrabbi">
-<img src="https://avatars.githubusercontent.com/u/76894655?u=ce1d5f6810f9da704aa68441018fe99efa38ebb0&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/76894655?u=65a8dd2d8f5f94274c303f65076a5a16a5c55fe4&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
