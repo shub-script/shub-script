@@ -11,6 +11,12 @@
 <tr>
 
 <td align="center" width="120">
+<a href="https://github.com/BERDLYY">
+<img src="https://avatars.githubusercontent.com/u/245501934?u=8ab41d9eac4730745fadc4f5cd281ecdf131d741&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
+
+<td align="center" width="120">
 <a href="https://github.com/ocvcoin">
 <img src="https://avatars.githubusercontent.com/u/90601304?u=3cbdae49f4e16b9e17dff085b9f6da35f1cd2aa0&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
@@ -39,14 +45,14 @@
 <img src="https://avatars.githubusercontent.com/u/18186995?u=7730425b69d2116ef76929ddc20e2d99dce291c8&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
-
-<td align="center" width="120">
-<a href="https://github.com/pawerrx">
-<img src="https://avatars.githubusercontent.com/u/156744184?u=107e34e2b7c6e1bd1d6a58d62cdc4a99c2851c64&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/BERDLYY" style="text-decoration:none;">
+BERDLYY
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/ocvcoin" style="text-decoration:none;">
@@ -77,15 +83,15 @@ RosieOh
 IDouble
 </a>
 </td>
-
-<td align="center">
-<a href="https://github.com/pawerrx" style="text-decoration:none;">
-pawerrx
-</a>
-</td>
 </tr>
 <tr><td colspan="6"><br></td></tr>
 <tr>
+
+<td align="center" width="120">
+<a href="https://github.com/pawerrx">
+<img src="https://avatars.githubusercontent.com/u/156744184?u=107e34e2b7c6e1bd1d6a58d62cdc4a99c2851c64&v=4" width="72" height="72" style="border-radius:50%;">
+</a>
+</td>
 
 <td align="center" width="120">
 <a href="https://github.com/conor-ops">
@@ -112,18 +118,18 @@ pawerrx
 </td>
 
 <td align="center" width="120">
-<a href="https://github.com/vaibhavv-labs">
-<img src="https://avatars.githubusercontent.com/u/251753161?u=2145a5910c3d430b576b84dd52d78181447ed6d4&v=4" width="72" height="72" style="border-radius:50%;">
-</a>
-</td>
-
-<td align="center" width="120">
 <a href="https://github.com/Stan-Marsh-0">
 <img src="https://avatars.githubusercontent.com/u/216438269?u=a201a6fcc6126f31ce8e257ea5d2916d06cf2575&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 </tr>
 <tr>
+
+<td align="center">
+<a href="https://github.com/pawerrx" style="text-decoration:none;">
+pawerrx
+</a>
+</td>
 
 <td align="center">
 <a href="https://github.com/conor-ops" style="text-decoration:none;">
@@ -146,12 +152,6 @@ SAPTARSHI-code...
 <td align="center">
 <a href="https://github.com/ANTlDOTE" style="text-decoration:none;">
 ANTlDOTE
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/vaibhavv-labs" style="text-decoration:none;">
-vaibhavv-labs
 </a>
 </td>
 
