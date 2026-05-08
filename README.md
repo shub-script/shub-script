@@ -1108,7 +1108,7 @@ AshiteshSingh
 
 <td align="center" width="120">
 <a href="https://github.com/deviousduoz">
-<img src="https://avatars.githubusercontent.com/u/207829898?u=57a5920975f8e68e4c9351f36aa760b75c3cb936&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/207829898?u=0327be0dff1060b988d8cd5d82b94d59921bf24b&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
