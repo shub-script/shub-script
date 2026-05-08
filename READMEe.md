@@ -1,5 +1,6 @@
 
 <img src="images/header_en.svg"></img>
+<img src="images/linux-tux.gif"></img>
 
 <h2 align="center">🚀 Latest Followers</h2>
 
