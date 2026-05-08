@@ -266,7 +266,7 @@ japan1988
 </td>
 
 <td align="center" width="120">
-<a href="https://github.com/melopics">
+<a href="https://github.com/buildduo">
 <img src="https://avatars.githubusercontent.com/u/241115038?u=e902ba68843a25fb71d45b92549bd3deaf4b1d8f&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
@@ -304,8 +304,8 @@ mznausica3181-...
 </td>
 
 <td align="center">
-<a href="https://github.com/melopics" style="text-decoration:none;">
-melopics
+<a href="https://github.com/buildduo" style="text-decoration:none;">
+buildduo
 </a>
 </td>
 
