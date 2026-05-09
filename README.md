@@ -492,7 +492,7 @@ MaturusLux
 
 <td align="center" width="120">
 <a href="https://github.com/gambling-addict">
-<img src="https://avatars.githubusercontent.com/u/179130175?u=4488c76ed8c177a747d1bcaebaf02486acb30356&v=4" width="72" height="72" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/179130175?u=15f4302f1ab368302b5464895e0ffc52aae0e0fd&v=4" width="72" height="72" style="border-radius:50%;">
 </a>
 </td>
 
