@@ -32,7 +32,7 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #7E3285;  
+  fill: #4B0082;  
 }
 
 .wave:hover {
@@ -40,14 +40,14 @@ rect.headerRect:hover {
 }
 
 .drop:hover {
-  fill: #500565;
+  fill: #9B59B6;
 }
 
 .drop {
-  fill: #9F5EA5;
+  fill: #4B0082;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #E0B6E4;
+  stroke: #4B0082;
   stroke-width: 0.5;
   transform: translateY(25px);
   transform-box: fill-box;
