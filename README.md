@@ -1,4 +1,4 @@
-
+<img width="173" height="200" alt="Image" src="https://github.com/user-attachments/assets/47372db7-ab58-47dc-8d19-79ac209562f6" />
 <img src="images/header_en.svg"></img>
 
 <h2 align="center">🚀 Latest Followers</h2>
