@@ -26,7 +26,7 @@
 
 <td width="45%" align="center" valign="top">
 
-<img src="images/4.png" width="70%" />
+<img src="images/shub-script-Think.png" width="70%" />
 
 </td>
 </tr>
