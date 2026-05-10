@@ -38,7 +38,7 @@
 </table>
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> &nbsp; Hi, I'm **Shubham Singh** — a Cybersecurity enthusiast  enjoys coding and building  projects.<br>
+
 
 <div align="center" >
 
