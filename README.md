@@ -37,7 +37,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shub-script&label=Profile%20Views&style=flat" />
 <img src="https://img.shields.io/github/followers/shub-script?style=flat&label=Followers" />
-<img src="https://img.shields.io/badge/Active%20Days-129/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
+<img src="https://img.shields.io/badge/Active%20Days-130/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
 <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
 </td>
 
