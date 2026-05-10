@@ -9,7 +9,11 @@
 <tr>
 <td width="55%" valign="top">
 
-<img width="535" height="460" alt="Shub-script-Skill-Dark" src="https://github.com/user-attachments/assets/ab94dc22-6d64-46c2-bd58-e99a6aeed683" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Shub-script-Skill-Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Shub-script-Skill-White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 
 
 <img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20Views&style=flat" />
