@@ -227,132 +227,78 @@ Ollama
 
 </table>
 
+<!-- ===================== CYBER ARSENAL ===================== -->
 
-<!-- ===================== PROJECTS SECTION ===================== -->
-
-<h2 align="center">Repos</h2>
-
-<br>
-
-<table width="80%" align="center">
-
-<!-- ROW 1 -->
-
+<table width="100%">
 <tr>
 
-<td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/Python-Mini-Projects">
-<img src="images/repo/1.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Python Mini Projects</b>
-<br>
-<sub>Collection of small practical Python projects.</sub>
+<!-- LEFT SIDE STICKER -->
+
+<td width="35%" align="center" valign="top">
+
+<img src="images/Working.png" width="95%" />
+
 </td>
 
-<td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/keylog-v12">
-<img src="images/repo/2.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Keylog v12</b>
-<br>
-<sub>Python keylogger with GUI interface.</sub>
-</td>
+<!-- RIGHT SIDE BADGES -->
 
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Cyber-Library/">
-<img src="images/repo/3.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Cyber Library</b>
-<br>
-<sub>Cybersecurity eBook collection website.</sub>
-</td>
+<td width="65%" valign="top">
 
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/DailyDesk/">
-<img src="images/repo/4.png" width="120" height="120" style="border-radius:15px;">
+<h2>⚡ Projects </h2>
+
+<p>
+
+<a href="https://github.com/shub-script/Python-Mini-Projects">
+<img src="https://img.shields.io/badge/Python_Projects-111111?style=flat&logo=python&logoColor=FFD43B"/>
 </a>
-<br><br>
-<b>DailyDesk</b>
+
+<a href="https://github.com/shub-script/keylog-v12">
+<img src="https://img.shields.io/badge/Keylog_v12-111111?style=flat&logo=python&logoColor=00FFAA"/>
+</a>
+
+<a href="https://shub-script.github.io/Cyber-Library/">
+<img src="https://img.shields.io/badge/Cyber_Library-111111?style=flat&logo=bookstack&logoColor=00E5FF"/>
+</a>
+
+<a href="https://shub-script.github.io/DailyDesk/">
+<img src="https://img.shields.io/badge/DailyDesk-111111?style=flat&logo=todoist&logoColor=FFB300"/>
+</a>
+
+<a href="https://shub-script.github.io/Shineword/">
+<img src="https://img.shields.io/badge/ShineWord-111111?style=flat&logo=vercel&logoColor=FF4D9D"/>
+</a>
+
+<a href="https://shub-script.github.io/Kali-Wall.sh/">
+<img src="https://img.shields.io/badge/Kali_Wall-111111?style=flat&logo=kalilinux&logoColor=00BFFF"/>
+</a>
+
+<a href="https://shub-script.github.io/Tor-Project/">
+<img src="https://img.shields.io/badge/Tor_Project-111111?style=flat&logo=torbrowser&logoColor=A970FF"/>
+</a>
+
+<a href="https://github.com/shub-script/cs2-mvp-autochat">
+<img src="https://img.shields.io/badge/CS2_AutoChat-111111?style=flat&logo=steam&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://shub-script.github.io/Free-Fire-Collection-D/">
+<img src="https://img.shields.io/badge/Free_Fire-111111?style=flat&logo=firefoxbrowser&logoColor=FF5722"/>
+</a>
+
+</p>
+
 <br>
-<sub>Simple task & management system.</sub>
+
+<!-- MINI PROFILE BADGES -->
+
+
+
 </td>
 
 </tr>
-
-<!-- ROW 2 -->
-
-<tr>
-
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Shineword/">
-<img src="images/repo/5.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>ShineWord</b>
-<br>
-<sub>3D glowing particle name effect.</sub>
-</td>
-
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Kali-Wall.sh/">
-<img src="images/repo/6.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Kali Wall</b>
-<br>
-<sub>Download Kali Linux wallpapers.</sub>
-</td>
-
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Tor-Project/">
-<img src="images/repo/7.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Tor Project</b>
-<br>
-<sub>Tor browser download utility site.</sub>
-</td>
-
-<td align="center" width="25%">
-<a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
-<img src="images/repo/8.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>CS2 MVP AutoChat</b>
-<br>
-<sub>Auto chat tool for CS2 gameplay.</sub>
-</td>
-
-</tr>
-
-<!-- ROW 3 -->
-
-<tr>
-
-<td align="center" width="25%">
-<a href="https://shubham-shipt.github.io/Free-Fire-Collection-D/">
-<img src="images/repo/9.png" width="120" height="120" style="border-radius:15px;">
-</a>
-<br><br>
-<b>Free Fire Collection</b>
-<br>
-<sub>Free Fire themed collection website.</sub>
-</td>
-
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="25%"></td>
-
-</tr>
-
 </table>
 
-<br><br>
+<!-- ===================== END ===================== -->
 
-<!-- ===================== END PROJECTS ===================== -->
 ## ✨ Dashbord
 
 <div align="center">
