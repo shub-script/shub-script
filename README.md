@@ -15,10 +15,12 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
+<img src="https://komarev.com/ghpvc/?username=shub-script&label=Profile%20Views&style=flat" />
 
-<img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20Views&style=flat" />
-<img src="https://img.shields.io/github/followers/shubham-shipt?style=flat&label=Followers" />
+<img src="https://img.shields.io/github/followers/shub-script?style=flat&label=Followers" />
+
 <img src="https://img.shields.io/badge/Active%20Days-64/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
+
 <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
 </td>
 
@@ -36,9 +38,7 @@
 </table>
 
 
--  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m a Senior Software Engineer with **12+ years** of experience turning coffee into scalable, reliable software. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I build clean, performant full-stack applications, enjoy solving hard problems, and believe good code should be readable, maintainable, and occasionally make future me proud. <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> &nbsp; Hi, I'm **Shubham Singh** — a Cybersecurity enthusiast  enjoys coding and building  projects.<br>
 
 <div align="center" >
 
@@ -320,6 +320,27 @@ width="100%"
 
 </div>
 
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=shub-script&theme=github-compact&bg_color=0D1117&color=A259FF&line=58A6FF&point=FFFFFF&hide_border=true" 
+width="100%" 
+/>
+
+</div>
+
+
+<div align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=shub-script&theme=discord&no-frame=true&row=1&column=7" 
+width="100%" 
+/>
+
+</div>
+
+
+
 <br>
 
 <!-- STREAK -->
@@ -408,18 +429,15 @@ width="100%"
 
 <br>
 
-<!-- CONTRIBUTIONS -->
+</div
 
 
-
-
-</div>
 
 <!-- ===================== END ===================== -->
 
 
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center"> 👋 Connect With Me </h2>
 
 <table align="center">
 <tr>
