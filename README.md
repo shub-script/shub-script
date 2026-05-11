@@ -264,15 +264,15 @@ height="260"
 </a>
 
 <a href="https://shub-script.github.io/Cyber-Library/">
-<img src="https://img.shields.io/badge/_Cyber_Library-111111?style=flat-square&logo=bookstack&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Cyber_Library-111111?style=flat-square&logo=bookstack&logoColor=00E5FF"/>
 </a>
 
 <a href="https://shub-script.github.io/DailyDesk/">
-<img src="https://img.shields.io/badge/_DailyDesk-111111?style=flat-square&logo=todoist&logoColor=FFB300"/>
+<img src="https://img.shields.io/badge/DailyDesk-111111?style=flat-square&logo=todoist&logoColor=FFB300"/>
 </a>
 
 <a href="https://shub-script.github.io/Shineword/">
-<img src="https://img.shields.io/badge/_ShineWord-111111?style=flat-square&logo=vercel&logoColor=FF4D9D"/>
+<img src="https://img.shields.io/badge/ShineWord-111111?style=flat-square&logo=vercel&logoColor=FF4D9D"/>
 </a>
 
 </p>
@@ -280,19 +280,19 @@ height="260"
 <p>
 
 <a href="https://shub-script.github.io/Kali-Wall.sh/">
-<img src="https://img.shields.io/badge/_Kali_Wall-111111?style=flat-square&logo=kalilinux&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Kali_Wall-111111?style=flat-square&logo=kalilinux&logoColor=00BFFF"/>
 </a>
 
 <a href="https://shub-script.github.io/Tor-Project/">
-<img src="https://img.shields.io/badge/_Tor_Project-111111?style=flat-square&logo=torbrowser&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Tor_Project-111111?style=flat-square&logo=torbrowser&logoColor=A970FF"/>
 </a>
 
 <a href="https://github.com/shub-script/cs2-mvp-autochat">
-<img src="https://img.shields.io/badge/_CS2_AutoChat-111111?style=flat-square&logo=steam&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CS2_AutoChat-111111?style=flat-square&logo=steam&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://shub-script.github.io/Free-Fire-Collection-D/">
-<img src="https://img.shields.io/badge/_Free_Fire-111111?style=flat-square&logo=firefoxbrowser&logoColor=FF5722"/>
+<img src="https://img.shields.io/badge/Free_Fire-111111?style=flat-square&logo=firefoxbrowser&logoColor=FF5722"/>
 </a>
 
 </p>
