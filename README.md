@@ -26,7 +26,7 @@
 
 <td width="45%" align="center" valign="top">
 
-<img src="images/shub-script-Think.png" width="100%" />
+<img src="images/shub-bad.png" width="100%" />
 
 </td>
 </tr>
@@ -210,13 +210,18 @@ StoryBook
 
 <tr>
 <td align="center" width="120" height="120">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="65" height="65" alt="Backlinks"/><br><br>
+<img src="images/backlinks.png" width="65" height="65" alt="Backlinks"/><br><br>
 Backlinks
 </td>
 
 <td align="center" width="120" height="120">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="65" height="65" alt="ChatGPT"/><br><br>
 ChatGPT
+</td>
+
+<td align="center" width="120" height="120">
+<img src="images/seo.png" width="65" height="65" alt="Black Hat SEO"/><br><br>
+Black Hat SEO
 </td>
 
 <td align="center" width="120" height="120">
@@ -284,7 +289,7 @@ height="260"
 </a>
 
 <a href="https://shub-script.github.io/Tor-Project/">
-<img src="https://img.shields.io/badge/Tor_Project-111111?style=flat-square&logo=torbrowser&logoColor=A970FF"/>
+<img src="https://img.shields.io/badge/Tor_Web_UI-111111?style=flat-square&logo=torbrowser&logoColor=A970FF"/>
 </a>
 
 <a href="https://github.com/shub-script/cs2-mvp-autochat">
@@ -292,7 +297,7 @@ height="260"
 </a>
 
 <a href="https://shub-script.github.io/Free-Fire-Collection-D/">
-<img src="https://img.shields.io/badge/Free_Fire-111111?style=flat-square&logo=firefoxbrowser&logoColor=FF5722"/>
+<img src="https://img.shields.io/badge/Free_Fire collection-111111?style=flat-square&logo=firefoxbrowser&logoColor=FF5722"/>
 </a>
 
 </p>
