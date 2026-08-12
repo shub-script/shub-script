@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/github/followers/shub-script?style=flat&label=Followers" />
 
-<img src="https://img.shields.io/badge/Active%20Days-223/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
+<img src="https://img.shields.io/badge/Active%20Days-224/365-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
 
 <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
 </td>
